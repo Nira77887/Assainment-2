@@ -1,0 +1,14 @@
+
+
+.work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+.bold-italic-header{
+    font-weight: bold; 
+    font-style: italic;           
+}
